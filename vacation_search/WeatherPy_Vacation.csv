@@ -1,0 +1,67 @@
+City_ID,City,Country,Max Temp,Description,Lat,Long,Hotel Name
+4,Ponta Do Sol,PT,64.06,scattered clouds,32.6667,-17.1,Hotel do Campo
+17,Punta Arenas,CL,55.51,broken clouds,-53.15,-70.9167,Hotel Hain
+25,Kaduna,NG,64.94,clear sky,10.5222,7.4383,HAMDALA HOTEL
+32,Ribeira Grande,PT,60.12,overcast clouds,38.5167,-28.7,Quinta da Meia Eira
+39,Hobart,AU,64.22,scattered clouds,-42.8794,147.3294,Mantra on Collins Hobart
+49,Mataura,NZ,58.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+54,New Norfolk,AU,63.91,few clouds,-42.7826,147.0587,The Shingles Riverside Cottages
+78,Lebu,CL,59.0,clear sky,-37.6167,-73.65,Hostal Las Lilas
+83,Kaitangata,NZ,57.92,overcast clouds,-46.2817,169.8464,Kaitangata Motor Camp
+92,Hermanus,ZA,64.9,clear sky,-34.4187,19.2345,Misty Waves Boutique Hotel
+95,Bilma,NE,61.34,clear sky,18.6853,12.9164,Expeditions Ténére voyages
+100,Bluff,NZ,58.8,broken clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+101,Monywa,MM,60.69,clear sky,22.1167,95.1333,Monywa Hotel
+134,Los Llanos De Aridane,ES,64.15,clear sky,28.6585,-17.9182,Valle Aridane
+137,Kitui,KE,61.97,broken clouds,-1.367,38.0106,Heritage Bliss Hotel
+144,Riyadh,SA,57.34,clear sky,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel"
+157,Madarounfa,NE,63.37,clear sky,13.3087,7.156,Madarounfa centre ville
+170,Lagoa,PT,59.56,overcast clouds,39.05,-27.9833,Casa Das Faias
+178,Cortez,US,57.96,clear sky,37.3489,-108.5859,Sand Canyon National 9 Inn
+181,Te Anau,NZ,64.35,overcast clouds,-45.4167,167.7167,Kingsgate Hotel Te Anau
+191,Mar Del Plata,AR,62.1,overcast clouds,-38.0023,-57.5575,Gran Hotel Mar del Plata
+195,Chambar,PK,63.99,clear sky,25.2931,68.812,RIZWAN COMMUNICATION CHAMBER
+202,Saldanha,ZA,64.45,scattered clouds,-33.0117,17.9442,Blue Bay Lodge
+217,Asilah,MA,55.26,clear sky,35.465,-6.0348,Hotel Zelis
+237,Nandurbar,IN,62.82,clear sky,21.3667,74.25,Hotel Heera Executive
+245,Naze,JP,59.92,overcast clouds,28.3667,129.4833,Shishime Hotel
+258,Peniche,PT,60.62,overcast clouds,39.3558,-9.3811,Hotel Star inn Peniche
+265,Challapata,BO,55.36,scattered clouds,-18.9,-66.7667,HOSTAL MARIAN
+283,Coihaique,CL,62.55,clear sky,-45.5752,-72.0662,Diego De Almagro Coyhaique
+294,Espanola,US,57.06,clear sky,35.9911,-106.0806,Santa Claran Hotel Casino
+300,Altamont,US,59.9,clear sky,42.2068,-121.7372,Microtel Inn & Suites by Wyndham Klamath Falls
+316,Hoquiam,US,59.02,clear sky,46.9809,-123.8893,Econo Lodge Inn & Suites
+320,Chaozhou,CN,58.86,broken clouds,23.6651,116.6379,Seven Corner View Homestay
+321,Plettenberg Bay,ZA,64.58,clear sky,-34.0527,23.3716,Thanda Vista B&B
+322,Akyab,MM,64.2,scattered clouds,20.15,92.9,Hotel Memory
+339,Ancud,CL,60.42,clear sky,-41.8697,-73.8203,Hotel Arena Gruesa
+347,Kruisfontein,ZA,61.2,clear sky,-34.0033,24.7314,Oyster Bay House Rental
+357,Constitucion,CL,59.45,clear sky,-35.3333,-72.4167,Hotel Boutique Las Azucenas
+379,Dunedin,NZ,61.81,overcast clouds,-45.8742,170.5036,Scenic Hotel Southern Cross
+382,Filadelfia,US,56.08,few clouds,39.9523,-75.1638,"The Ritz-Carlton, Philadelphia"
+387,Rincon,US,61.25,overcast clouds,32.296,-81.2354,Days Inn Rincon
+402,George,ZA,62.15,broken clouds,-33.963,22.4617,Protea Hotel by Marriott George King George
+404,Martinsburg,US,60.64,broken clouds,39.4562,-77.9639,"Holiday Inn Martinsburg, an IHG Hotel"
+421,Harrisonburg,US,58.41,overcast clouds,38.4496,-78.8689,Hampton Inn Harrisonburg - University
+426,Veinticinco De Mayo,AR,57.06,moderate rain,-35.4323,-60.1727,Estancia La Rosada
+439,Dutse,NG,61.21,few clouds,11.7594,9.3392,Central Mosque Galamawa
+453,Havelock,US,57.94,overcast clouds,34.8791,-76.9013,Sherwood Motel
+487,Mosquera,CO,60.89,scattered clouds,4.7059,-74.2302,Hotel SJ
+494,Vila Franca Do Campo,PT,60.19,broken clouds,37.7167,-25.4333,Pestana Bahia Praia
+513,Meadow Lake,US,61.57,clear sky,34.8014,-106.5436,TumbleWeed RV Park
+516,Tirumakudal Narsipur,IN,64.22,clear sky,12.21,76.9064,Yadu skypark
+521,Truckee,US,61.43,clear sky,39.328,-120.1833,Truckee Donner Lodge
+535,Indian Head,US,63.52,clear sky,38.6001,-77.1622,"Red Carpet Inn Indian Head, MD"
+548,Tuatapere,NZ,58.82,broken clouds,-46.1333,167.6833,Ron and Tony's Bed & Breakfast
+571,Chinsali,ZM,61.95,moderate rain,-10.5414,32.0816,Chisakatu Guest House
+573,Najran,SA,63.25,clear sky,17.4924,44.1277,محمد هادي ال فطيح
+594,Bhadrachalam,IN,64.0,broken clouds,17.6667,80.8833,Hotel Srinidhi Residency
+605,Praia Da Vitoria,PT,59.25,broken clouds,38.7333,-27.0667,Hotel Branco I
+615,Chilmari,BD,59.52,clear sky,25.5559,89.6715,Naimul islam Badhon hotel
+618,Waipawa,NZ,62.92,light rain,-41.4122,175.5153,Tora Coastal Walk
+624,Rawson,AR,62.06,scattered clouds,-43.3002,-65.1023,Hosteria Sampedro
+627,Ziway,ET,63.64,broken clouds,7.9333,38.7167,Haile Resort Ziway Batu
+629,Tuscaloosa,US,61.23,clear sky,33.2098,-87.5692,Hampton Inn Tuscaloosa-University
+653,Estelle,US,64.0,clear sky,29.8458,-90.1067,Boomtown Casino & Hotel New Orleans
+662,Barmer,IN,58.77,clear sky,25.75,71.3833,OYO 71911 Hotel Amber Palace
+665,Mpanda,TZ,64.78,overcast clouds,-6.3655,31.0409,CH Hotel - Mpanda
